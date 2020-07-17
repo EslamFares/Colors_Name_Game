@@ -1,10 +1,10 @@
 # colors_names_game
 
 select the color of word not it's mean
-User Pages
+GAmeOver-HomePage
 <p float="left">
-  <img src="https://github.com/EslamFares/Buy-It/blob/master/img_from_app/UserScreen/productsview1.png" width="200" />
-  <img src="https://github.com/EslamFares/Buy-It/blob/master/img_from_app/UserScreen/productsview2.png" width="200" />
+  <img src="https://github.com/EslamFares/Colors_Name_Game/blob/master/img_from_app/Screenshot_1594947378.png" width="300" />
+  <img src="https://github.com/EslamFares/Colors_Name_Game/blob/master/img_from_app/Screenshot_1594947769.png" width="300" />
 </p>
 
 ## Getting Started
