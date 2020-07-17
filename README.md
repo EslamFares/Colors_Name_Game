@@ -1,6 +1,11 @@
 # colors_names_game
 
 select the color of word not it's mean
+User Pages
+<p float="left">
+  <img src="https://github.com/EslamFares/Buy-It/blob/master/img_from_app/UserScreen/productsview1.png" width="200" />
+  <img src="https://github.com/EslamFares/Buy-It/blob/master/img_from_app/UserScreen/productsview2.png" width="200" />
+</p>
 
 ## Getting Started
 
